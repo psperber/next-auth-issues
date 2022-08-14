@@ -1,0 +1,1 @@
+Redirects to `/api/auth/signin?callbackUrl=%2F`

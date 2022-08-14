@@ -1,0 +1,1 @@
+Will cause a redirect loop to `/custom-base/api/auth/signin`
