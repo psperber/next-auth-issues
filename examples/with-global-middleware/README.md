@@ -1,1 +1,1 @@
-Redirects to `/api/auth/signin?callbackUrl=%2F`
+Redirects to `/api/auth/signin?callbackUrl=%2F`, when requesting `/custom-base`

@@ -1,0 +1,2 @@
+Uses `NEXTAUTH_URL=http://localhost:3000/custom-base` instead of `NEXTAUTH_URL=http://localhost:3000/custom-base/api/auth`
+Redirects to `/api/auth/signin?callbackUrl=%2F`, when requesting `/custom-base`
